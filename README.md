@@ -1,4 +1,4 @@
-# Today I do
+# Today I Learned
 ## 2022.08.22
 ### FastAPI (Tandanji)
 - Static 폴더 설정
