@@ -44,6 +44,7 @@ position:absolute; top:50%; transform: translate(0%, -50%);
 위 코드는 세로 중앙에 배치
 
 <hr>
+
 ### 계획
 - Hadoop EcoSystem
 - Kafka
