@@ -42,3 +42,13 @@ position:absolute; top:50%; transform: translate(0%, -50%);
 ```
 
 위 코드는 세로 중앙에 배치
+
+<hr>
+### 계획
+- Hadoop EcoSystem
+- Kafka
+- K8s
+- Nest.js
+- Spring boot
+- Oauth 프로세스 분석
+- CICD 분석 및 아키텍처 예시로직 제작
