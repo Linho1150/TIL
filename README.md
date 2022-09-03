@@ -43,6 +43,14 @@ position:absolute; top:50%; transform: translate(0%, -50%);
 
 위 코드는 세로 중앙에 배치
 
+## 2022.09.04
+
+### Popool (Backble-한이음)
+
+- Github Actions를 활용하여 멀티모듈로 설정되어있는 레포지토리를 한번에 각각의 서버로 배포를 시도함
+- Github Actions WorkFlow에 작성된 코드를 바탕으로 AWS Elastic BeanStalk까지 배포를 완료하는 것이 목표
+- 하지만, Gradle Build 과정에서 오류가 생겨서 해당 문제를 수정하는 과정에 있음
+
 <hr>
 
 ### 계획
