@@ -51,6 +51,16 @@ position:absolute; top:50%; transform: translate(0%, -50%);
 - Github Actions WorkFlow에 작성된 코드를 바탕으로 AWS Elastic BeanStalk까지 배포를 완료하는 것이 목표
 - 하지만, Gradle Build 과정에서 오류가 생겨서 해당 문제를 수정하는 과정에 있음
 
+## 2022.09.07 ~ 2022.09.08
+
+### que.kr
+- que.kr에 필요한 프론트엔드 퍼블리싱 진행
+- Golang의 Gin을 세팅하여 Http Server 세팅
+- AWS의 EC2를 활용하여 que.kr 서비스 준비
+- Testing을 위한 DynamoDB Local Version을 EC2에 설치 후 2개의 테이블 생성
+- AWS CLI를 사용하여 DynamoDB 설정 후 테이블 생성 완료
+- Hosting.kr을 통해 que.kr 도메인 구매후 A 레코드를 활용하여 EC2와 연동
+
 <hr>
 
 ### 계획
