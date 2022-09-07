@@ -60,6 +60,7 @@ position:absolute; top:50%; transform: translate(0%, -50%);
 - Testing을 위한 DynamoDB Local Version을 EC2에 설치 후 2개의 테이블 생성
 - AWS CLI를 사용하여 DynamoDB 설정 후 테이블 생성 완료
 - Hosting.kr을 통해 que.kr 도메인 구매후 A 레코드를 활용하여 EC2와 연동
+<img src="https://user-images.githubusercontent.com/56428918/188947774-1fc72646-2a5e-4086-b588-2aa6c5451592.png" width="500"/>
 
 <hr>
 
